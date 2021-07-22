@@ -1,0 +1,7 @@
+
+* text=auto
+
+# GitHub
+.gitattributes      text
+README.md           text
+
