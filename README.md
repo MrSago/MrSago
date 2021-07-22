@@ -5,7 +5,7 @@ Welcome to my GitHub page. I use it as a portfolio of code and projects.
 
 
 Currently I'm:
-- Studying at the [South-Ural State University](https://www.susu.ru/)
+- Studying at the [South-Ural State University](https://www.susu.ru/) in the speciality of [Fundamental Informatics and Information Technologies](https://eecs.susu.ru/ru/entrant/programs/fundamental-infromatics/)
 - Study Olympiad and sports programming
 - Have good knowledge in Computer Science
 
