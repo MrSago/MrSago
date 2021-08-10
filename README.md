@@ -1,5 +1,5 @@
 
-### Greetings, I'm Alexander! 👋
+## Greetings, I'm Alexander! 👋
 Welcome to my GitHub page. I use it as a portfolio of code and projects.
 
 Currently I'm:
@@ -8,27 +8,27 @@ Currently I'm:
 - Have good knowledge in Computer Science
 
 
-#### 📑 Favorite Languages
+### 📑 Favorite Languages
 <p>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img width="48" src="https://docs.microsoft.com/ru-ru/windows/images/csharp-logo.png"/>
-    <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/64px-Lua-Logo.svg.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/c.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/cpp.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/cs.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/lua.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/py.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/js.png"/>
 </p>
 
 
-#### 🔧 Tools
+### 🔧 Tools
 <p>
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/>
-    <img width="48" src="https://styles.redditmedia.com/t5_3e5pz/styles/communityIcon_2dhb8eyc5vl11.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/vs.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/vscode.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/npp.png"/>
+    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/wsl.png"/>
 </p>
 
 
-#### 📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
     <table>
     <tr>
@@ -37,6 +37,9 @@ Currently I'm:
     </tr>
     </table>
 </p>
+
+
+***
 
 
 <p>
