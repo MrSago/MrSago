@@ -10,21 +10,21 @@ Currently I'm:
 
 ### 📑 Favorite Languages
 <p>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/c.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/cpp.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/cs.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/lua.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/py.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/js.png"/>
+    <img src="./img/c.png"/>
+    <img src="./img/cpp.png"/>
+    <img src="./img/cs.png"/>
+    <img src="./img/lua.png"/>
+    <img src="./img/py.png"/>
+    <img src="./img/js.png"/>
 </p>
 
 
 ### 🔧 Tools
 <p>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/vs.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/vscode.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/npp.png"/>
-    <img src="https://raw.githubusercontent.com/MrSago/MrSago/master/img/wsl.png"/>
+    <img src="./img/vs.png"/>
+    <img src="./img/vscode.png"/>
+    <img src="./img/npp.png"/>
+    <img src="./img/wsl.png"/>
 </p>
 
 
