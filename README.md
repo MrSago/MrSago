@@ -39,6 +39,10 @@ Currently I'm:
 </p>
 
 
+### 🎠 Socials
+<a href="https://discord.gg/vHeJKtVqeb"><img src="./img/discord.png"/></a>
+
+
 ***
 
 
