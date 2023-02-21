@@ -40,7 +40,7 @@ Currently I'm:
 
 
 ### 🎠 Socials
-<a href="https://discord.gg/vHeJKtVqeb"><img src="./img/discord.png"/></a>
+<a href="https://discord.gg/myMv6T746z"><img src="./img/discord.png"/></a>
 
 
 ***
