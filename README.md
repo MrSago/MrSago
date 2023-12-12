@@ -1,6 +1,8 @@
 
 # Greetings, I'm Alexander! 👋
 
+![neko](./img/neko.gif "OwO :3")
+
 Welcome to my GitHub page. I use it as a portfolio of code and projects.
 
 Currently I'm:
@@ -51,7 +53,7 @@ Currently I'm:
 ## 🎠 Socials
 
 <p>
-    <a href="https://discord.gg/myMv6T746z"><img src="./img/discord.png"/></a>
+    <a href="https://discord.com/users/234742888666234880"><img src="./img/discord.png"/></a>
     <a href="https://vk.com/mrs4g0"><img src="./img/vk.png"/></a>
 </p>
 
