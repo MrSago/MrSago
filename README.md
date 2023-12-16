@@ -35,7 +35,7 @@ Currently I'm:
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
     <table>
         <tr>
             <td>
@@ -50,9 +50,9 @@ Currently I'm:
 
 ## 📟 Codeium Stats
 
-<p align="center">
+<p align="left">
     <a href="https://codeium.com/profile/mrs4g0">
-        <img align="center" width="600px" src="https://codeium.com/profile/mrs4g0/card.png">
+        <img align="center" width="500px" src="https://codeium.com/profile/mrs4g0/card.png">
     </a>
 </p>
 
