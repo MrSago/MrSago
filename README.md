@@ -15,23 +15,21 @@ Currently I'm:
 
 ## 📑 Favorite Languages
 
-<p>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./img/c.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./img/cpp.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="./img/cs.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"><img src="./img/lua.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="./img/py.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./img/js.png"/></a>
-</p>
+[![C](./img/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](./img/cpp.png)](https://en.wikipedia.org/wiki/C++)
+[![C#](./img/cs.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![Lua](./img/lua.png)](https://en.wikipedia.org/wiki/Lua_(programming_language))
+[![Python](./img/py.png)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![JavaScript](./img/js.png)](https://en.wikipedia.org/wiki/JavaScript)
 
-## 🔧 Tools
+## 🔧 Tools and technologies
 
-<p>
-    <a href="https://code.visualstudio.com/"><img src="./img/vscode.png"/></a>
-    <a href="https://notepad-plus-plus.org/"><img src="./img/npp.png"/></a>
-    <a href="https://learn.microsoft.com/en-us/windows/wsl/"><img src="./img/wsl.png"/></a>
-    <a href="https://cmake.org/"><img src="./img/cmake.png"/></a>
-</p>
+[![VS Code](./img/vscode.png)](https://code.visualstudio.com/)
+[![Codeium](./img/codeium.png)](https://codeium.com?referral_id=c2Fnb3NhZ28xNkBnbWFpbC5jb20=)
+[![Notepad++](./img/npp.png)](https://notepad-plus-plus.org/)
+[![WSL](./img/wsl.png)](https://learn.microsoft.com/en-us/windows/wsl/)
+[![CMake](./img/cmake.png)](https://cmake.org/)
+[![Qt](./img/qt.png)](https://www.qt.io/)
 
 ## 📈 GitHub Stats
 
@@ -39,24 +37,29 @@ Currently I'm:
     <table>
         <tr>
             <td>
-                <img align="left" src="https://github-readme-stats.vercel.app/api?username=MrSago&custom_title=MrSago's+GitHub+Stats&include_all_commits=true&count_private=true&show_icons=true&theme=jolly">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSago&custom_title=MrSago's+GitHub+Stats&include_all_commits=true&count_private=true&show_icons=true&theme=jolly">
             </td>
             <td>
-                <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSago&theme=jolly&layout=compact&langs_count=8">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSago&theme=jolly&layout=compact&langs_count=8">
             </td>
         </tr>
     </table>
 </p>
 
-## 🎠 Socials
+## 📟 Codeium Stats
 
-<p>
-    <a href="https://discord.gg/myMv6T746z"><img src="./img/discord.png"/></a>
-    <a href="https://vk.com/mrs4g0"><img src="./img/vk.png"/></a>
+<p align="center">
+    <a href="https://codeium.com/profile/mrs4g0">
+        <img align="center" width="600px" src="https://codeium.com/profile/mrs4g0/card.png">
+    </a>
 </p>
+
+## 💬 Socials
+
+[![discord](./img/discord.png)](https://discord.gg/myMv6T746z)
+[![vk](./img/vk.png)](https://vk.com/mrs4g0)
 
 ***
 
-<p>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mrsago.visitor-badge&color=291b3e"/>
-</p>
+![visitors](https://komarev.com/ghpvc/?username=mrsago&color=blueviolet)
+[![streak](https://codeium.com/badges/v2/user/mrs4g0/streak)](https://codeium.com/profile/mrs4g0)
