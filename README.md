@@ -1,6 +1,6 @@
 # Greetings, I'm Alexander! 👋
 
-![neko](./img/neko.gif "(* ^ ω ^)")
+[![neko](./img/neko.gif "(* ^ ω ^)")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Welcome to my GitHub page. I use it as a portfolio of code and projects.
 
@@ -16,11 +16,11 @@ Currently I'm:
 
 ## 📑 Favorite Languages
 
-[![C](./img/c.png)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
+[![C](./img/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](./img/cpp.png)](https://en.wikipedia.org/wiki/C++)
-[![C#](./img/cs.png)](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
-[![Lua](./img/lua.png)](<https://en.wikipedia.org/wiki/Lua_(programming_language)>)
-[![Python](./img/py.png)](<https://en.wikipedia.org/wiki/Python_(programming_language)>)
+[![C#](./img/cs.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![Lua](./img/lua.png)](https://en.wikipedia.org/wiki/Lua_(programming_language))
+[![Python](./img/py.png)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![JavaScript](./img/js.png)](https://en.wikipedia.org/wiki/JavaScript)
 
 ## 🔧 Tools and technologies
