@@ -65,6 +65,16 @@ Currently I'm:
 
 <p align="left">
   <table>
+      <tr>
+      <td>
+        <a href="https://t.me/MrS4g0">
+          <img align="center" src="./img/telegram.png">
+        </a>
+      </td>
+      <td style="font-size: 24px; vertical-align: top;">
+        @MrS4g0
+      </td>
+    </tr>
     <tr>
       <td>
         <a align="center" href="https://discord.com/users/234742888666234880">
@@ -83,16 +93,6 @@ Currently I'm:
       </td>
       <td style="font-size: 24px; vertical-align: top;">
         vk.com/mrs4g0
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://t.me/MrS4g0">
-          <img align="center" src="./img/telegram.png">
-        </a>
-      </td>
-      <td style="font-size: 24px; vertical-align: top;">
-        @MrS4g0
       </td>
     </tr>
   </table>
