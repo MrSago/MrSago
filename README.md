@@ -46,7 +46,7 @@ Currently I'm:
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSago&theme=jolly&layout=compact&langs_count=10&hide=Jupyter Notebook">
+          <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSago&theme=jolly&layout=compact&langs_count=10&hide=Jupyter%20Notebook">
         </a>
       </td>
     </tr>
