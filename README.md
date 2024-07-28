@@ -2,11 +2,11 @@
 
 [![neko](./img/neko.gif "(* ^ ω ^)")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Welcome to my GitHub page. I use it as a portfolio of code and projects.
+Welcome to my Github page. I use it as a portfolio of code and projects. Check out my lists in [Stars](https://github.com/MrSago?tab=stars).
 
 Currently I'm:
 
-- Studying at the [South-Ural State University](https://www.susu.ru/) in the speciality of [Fundamental Informatics and Information Technologies](https://eecs.susu.ru/ru/entrant/programs/fundamental-infromatics/)
+- Graduated from [South-Ural State University](https://www.susu.ru/) with a degree in [Fundamental Informatics and Information Technologies](https://eecs.susu.ru/ru/entrant/programs/fundamental-infromatics/)
 
 - Study Olympiad and sports programming
 
@@ -24,7 +24,7 @@ Currently I'm:
 [![JavaScript](./img/js.png)](https://en.wikipedia.org/wiki/JavaScript)
 [![Java](./img/java.png)](<https://en.wikipedia.org/wiki/Java_(programming_language)>)
 
-## 🔧 Tools and technologies
+## 🔧 Tools & Technologies
 
 [![Codeium](./img/codeium.png)](https://codeium.com?referral_id=c2Fnb3NhZ28xNkBnbWFpbC5jb20=)
 [![VS Code](./img/vscode.png)](https://code.visualstudio.com/)
