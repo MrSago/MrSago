@@ -100,6 +100,8 @@ Currently I'm:
 
 ---
 
+[![:MrSago](https://count.getloli.com/get/@:MrSago)](https://count.getloli.com)
+
+---
+
 [![autocomplete](https://codeium.com/badges/user/mrs4g0/autocomplete)](https://codeium.com/profile/mrs4g0)
-[![streak](https://codeium.com/badges/v2/user/mrs4g0/streak)](https://codeium.com/profile/mrs4g0)
-[![visitors](https://komarev.com/ghpvc/?username=mrsago&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
