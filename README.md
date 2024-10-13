@@ -33,6 +33,7 @@ Currently I'm:
 [![CMake](./img/cmake.png)](https://cmake.org/)
 [![Qt](./img/qt.png)](https://www.qt.io/)
 [![Selenium](./img/selenium.png)](https://selenium.dev/)
+[![.NET CORE](./img/netcore.png)](https://dotnet.microsoft.com/)
 
 ## 📈 Github Stats
 
