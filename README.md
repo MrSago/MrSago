@@ -86,16 +86,6 @@ Currently I'm:
         mrs4g0
       </td>
     </tr>
-    <tr>
-      <td>
-        <a align="center" href="https://vk.com/mrs4g0">
-          <img src="./img/vk.png">
-        </a>
-      </td>
-      <td style="font-size: 24px; vertical-align: top;">
-        vk.com/mrs4g0
-      </td>
-    </tr>
   </table>
 </p>
 
