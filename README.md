@@ -91,7 +91,7 @@ Currently I'm:
 
 ---
 
-[![:MrSago](https://count.getloli.com/get/@:MrSago)](https://count.getloli.com)
+[![:MrSago](https://count.getloli.com/get/@:MrSago?scale=1&padding=5&theme=booru-touhoulat)](https://count.getloli.com)
 
 ---
 
