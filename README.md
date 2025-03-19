@@ -54,13 +54,13 @@ Currently I'm:
   </table>
 </p>
 
-## 📟 Codeium Stats
+<!-- ## 📟 Codeium Stats
 
 <p align="left">
   <a href="https://codeium.com/profile/mrs4g0">
     <img align="center" width="500px" src="https://codeium.com/profile/mrs4g0/card.png">
   </a>
-</p>
+</p> -->
 
 ## 💬 Socials
 
