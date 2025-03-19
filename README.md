@@ -26,8 +26,8 @@ Currently I'm:
 
 ## 🔧 Tools & Technologies
 
-[![Codeium](./img/codeium.png)](https://codeium.com?referral_id=c2Fnb3NhZ28xNkBnbWFpbC5jb20=)
 [![VS Code](./img/vscode.png)](https://code.visualstudio.com/)
+[![Codeium](./img/codeium.png)](https://codeium.com?referral_id=c2Fnb3NhZ28xNkBnbWFpbC5jb20=)
 [![Arch](./img/arch.png)](https://archlinux.org/)
 [![WSL](./img/wsl.png)](https://learn.microsoft.com/en-us/windows/wsl/)
 [![CMake](./img/cmake.png)](https://cmake.org/)
@@ -91,7 +91,7 @@ Currently I'm:
 
 ---
 
-[![:MrSago](https://count.getloli.com/get/@:MrSago?scale=0.8&padding=6&theme=booru-touhoulat)](https://count.getloli.com)
+[![:MrSago](https://count.getloli.com/get/@:MrSago?scale=0.8&padding=8&theme=booru-touhoulat)](https://count.getloli.com)
 
 ---
 
