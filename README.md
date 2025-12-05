@@ -171,7 +171,7 @@ Discord bot for Sirus.su private server. Monitors guild boss kills with DPS/HPS 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) ![Stars](https://img.shields.io/github/stars/MrSago/SirusPatcher?style=social)
 
-Qt-based desktop application for modifying game DBC files and creating custom patches for Sirus.su WoW server.
+Qt-based desktop application for modifying game DBC files and creating custom patches.
 
 **Tech Stack:** C++20, Qt6, StormLib, CMake
 
