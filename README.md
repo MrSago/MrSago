@@ -38,7 +38,7 @@ Currently I'm:
 
 ### [MiSide-KappiMod](https://github.com/MrSago/MiSide-KappiMod)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) [![Stars](https://img.shields.io/github/stars/MrSago/MiSide-KappiMod?style=social)](https://github.com/MrSago/MiSide-KappiMod)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://shields.io) [![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://shields.io) [![Stars](https://img.shields.io/github/stars/MrSago/MiSide-KappiMod?style=social)](https://github.com/MrSago/MiSide-KappiMod)
 
 Comprehensive mod pack for [MiSide](https://store.steampowered.com/app/2527500/MiSide/) game with some improvements: custom mod menu and gameplay enhancements.
 
@@ -46,7 +46,7 @@ Comprehensive mod pack for [MiSide](https://store.steampowered.com/app/2527500/M
 
 ### [Yui Discord Bot](https://github.com/MrSago/Yui)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) [![Stars](https://img.shields.io/github/stars/MrSago/Yui?style=social)](https://github.com/MrSago/Yui)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://shields.io) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://shields.io) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://shields.io) [![Stars](https://img.shields.io/github/stars/MrSago/Yui?style=social)](https://github.com/MrSago/Yui)
 
 Discord bot for Sirus.su private server. Monitors guild boss kills with DPS/HPS rankings and loot tracking, tracks server changelog updates with automatic notifications.
 
@@ -54,7 +54,7 @@ Discord bot for Sirus.su private server. Monitors guild boss kills with DPS/HPS 
 
 ### [SirusPatcher](https://github.com/MrSago/SirusPatcher)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) [![Stars](https://img.shields.io/github/stars/MrSago/SirusPatcher?style=social)](https://github.com/MrSago/SirusPatcher)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://shields.io) [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://shields.io) [![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)](https://shields.io) [![Stars](https://img.shields.io/github/stars/MrSago/SirusPatcher?style=social)](https://github.com/MrSago/SirusPatcher)
 
 Qt-based desktop application for modifying game DBC files and creating custom patches.
 
