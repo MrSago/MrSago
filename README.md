@@ -18,136 +18,21 @@ Currently I'm:
 
 ## 📑 Favorite Languages
 
-<p align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://go.dev">
-          <img align="center" src="./img/go-blue.png" alt="Go">
-        </a>
-      </td>
-      <td>
-        <a href="https://dotnet.microsoft.com/languages/csharp">
-          <img align="center" src="./img/cs.png" alt="C#">
-        </a>
-      </td>
-      <td>
-        <a href="https://isocpp.org">
-          <img align="center" src="./img/cpp.png" alt="C++">
-        </a>
-      </td>
-      <td>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-          <img align="center" src="./img/c.png" alt="C">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.lua.org">
-          <img align="center" src="./img/lua.png" alt="Lua">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.python.org">
-          <img align="center" src="./img/py.png" alt="Python">
-        </a>
-      </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img align="center" src="./img/js.png" alt="Javascript">
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+[![Go](./img/go-blue.png)](https://go.dev) &nbsp; [![C#](./img/cs.png)](https://dotnet.microsoft.com/languages/csharp) &nbsp; [![C++](./img/cpp.png)](https://isocpp.org) &nbsp; [![C](./img/c.png)](<https://en.wikipedia.org/wiki/C_(programming_language)>) &nbsp; [![Lua](./img/lua.png)](https://www.lua.org) &nbsp; [![Python](./img/py.png)](https://www.python.org) &nbsp; [![Javascript](./img/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🔧 Tools & Technologies
 
 ### Development Tools
 
-<p align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://archlinux.org/">
-          <img align="center" src="./img/arch.png" alt="Arch Linux">
-        </a>
-      </td>
-      <td>
-        <a href="https://code.visualstudio.com/">
-          <img align="center" src="./img/vscode.png" alt="VS Code">
-        </a>
-      </td>
-      <td>
-        <a href="https://git-scm.com/">
-          <img align="center" src="./img/git.png" alt="Git">
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+[![Arch Linux](./img/arch.png)](https://archlinux.org/) &nbsp; [![VS Code](./img/vscode.png)](https://code.visualstudio.com/) &nbsp; [![Git](./img/git.png)](https://git-scm.com/)
 
 ### Backend & Databases
 
-<p align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.docker.com/">
-          <img align="center" src="./img/docker.png" alt="Docker">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.postgresql.org/">
-          <img align="center" src="./img/postgresql.png" alt="PostgreSQL">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.mongodb.com/">
-          <img align="center" src="./img/mongodb.png" alt="MongoDB">
-        </a>
-      </td>
-      <td>
-        <a href="https://redis.io/">
-          <img align="center" src="./img/redis.png" alt="Redis">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.postman.com/">
-          <img align="center" src="./img/postman.png" alt="Postman">
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+[![Docker](./img/docker.png)](https://www.docker.com/) &nbsp; [![PostgreSQL](./img/postgresql.png)](https://www.postgresql.org/) &nbsp; [![MongoDB](./img/mongodb.png)](https://www.mongodb.com/) &nbsp; [![Redis](./img/redis.png)](https://redis.io/) &nbsp; [![Postman](./img/postman.png)](https://www.postman.com/)
 
 ### Other Technologies
 
-<p align="left">
-  <table>
-    <tr>
-      <td>
-        <a href="https://dotnet.microsoft.com/">
-          <img align="center" src="./img/netcore.png" alt=".NET CORE">
-        </a>
-      </td>
-      <td>
-        <a href="https://cmake.org/">
-          <img align="center" src="./img/cmake.png" alt="CMake">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.qt.io/">
-          <img align="center" src="./img/qt.png" alt="Qt">
-        </a>
-      </td>
-      <td>
-        <a href="https://selenium.dev/">
-          <img align="center" src="./img/selenium.png" alt="Selenium">
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+[![.NET CORE](./img/netcore.png)](https://dotnet.microsoft.com/) &nbsp; [![CMake](./img/cmake.png)](https://cmake.org/) &nbsp; [![Qt](./img/qt.png)](https://www.qt.io/) &nbsp; [![Selenium](./img/selenium.png)](https://selenium.dev/)
 
 ## 🚀 Featured Projects
 
